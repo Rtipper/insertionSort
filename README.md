@@ -28,3 +28,4 @@ GitHub
 ## Change Log
 
 ## Credits and Collaborations
+- https://www.w3resource.com/javascript-exercises/searching-and-sorting-algorithm/searching-and-sorting-algorithm-exercise-4.php
