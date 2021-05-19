@@ -1,0 +1,7 @@
+# CODE CHALLENGE 26 | INSERTION SORT
+
+### What Is Insertion Sort?
+- TEXT
+
+### VISUAL AND EXPLINATION
+
