@@ -4,7 +4,7 @@
 **Version**: 1.0.0
 
 # Link to BLOG.md
-- 
+- https://github.com/Rtipper/insertionSort/blob/main/BLOG.md
 
 # Pull Request
 -  
