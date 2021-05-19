@@ -1,15 +1,15 @@
 'use strict';
 
-const insertion_Sort = (nums) => {
-  for (let i = 1; i < nums.length; i++) {
-    let j = i - 1
-    let temp = nums[i]
-    while (j >= 0 && nums[j] > temp) {
-      nums[j + 1] = nums[j]
-      j--
+const insertion_Sort = (colors) => {
+  for (let i = 1; i < colors.length; i++) {
+    let x = i - 1
+    let temp = colors[i]
+    while (x >= 0 && colors[x] > temp) {
+      colors[x + 1] = colors[x]
+      x--
     }
-    nums[j+1] = temp
+    colors[x+1] = temp
   }
-  return nums
+  return colors
 }
-console.log(insertion_Sort([5, 6, 1, 3, 2, 4, 7]));
+console.log(insertion_Sort([0, 6, 3, 1, 5, 2, 4, 7]));
